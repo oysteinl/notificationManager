@@ -1,7 +1,7 @@
 package notification
 
 import (
-	"github.com/oysteinl/notification-manager/notifier"
+	"github.com/oysteinl/notificationManager/notifier"
 	"net/http"
 	"time"
 )

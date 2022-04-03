@@ -1,3 +1,3 @@
-module github.com/oysteinl/notification-manager
+module github.com/oysteinl/notificationManager
 
 go 1.16
